@@ -14,6 +14,7 @@ app.use(expressEjsLayouts)
 app.use(express.static(path.join(__dirname, "/public")))
 
 app.use("/comics",routerComic)
+app.set("layout", "template/index");
 
 let port = 3603
 app.listen(port,()=>{
