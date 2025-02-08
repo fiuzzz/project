@@ -1,5 +1,6 @@
 let comics=[
     {
+        img:"../img/sampul-solo-leveling.jpeg",
         judul:"Solo leveling",
         pembuat: "Jang Seong-rak " ,
         genre:'1',
@@ -9,6 +10,7 @@ let comics=[
         sinopsis:`Seorang Hunter class-E, Sung Jinwoo, hunter terlemah yang pernah ada. Di pandang rendah oleh semua orang, tidak memiliki uang, skill, dan job yang memadai. Ketika grup petualangnya menemukan dungeon tersembunyi, dia mendapatkan kesempatan untuk memperbaiki kehidupannya menjadi lebih baik. Namun kesempatan yang ia dapatkan itu, berbeda dari pada apa yang pernah ia bayangkan`,
     },
     {
+        img:"../img/sampul-The-Dark-Magician-Transmigrates-After-66666-Years.jpeg",
         judul:"The dark magician transmigrates after66666 years",
         pembuat:"Huangbong",
         genre:'2',
@@ -18,6 +20,7 @@ let comics=[
         sinopsis:`Diablo Volfir, penyihir terhebat, yang disegel karena rencana jahat para 12 dewa, tapi 66666 tahun telah berlalu sejak saat itu, dan ia turun sekali lagi ke bumi !`,
     },
     {
+        img:"../img/sampul-omniscient-Reader-Viewpoint.jpeg",
         judul:"Omniscient reader's viewpoint",
         pembuat:"Shin song",
         genre:'3',
@@ -27,6 +30,7 @@ let comics=[
         sinipsis:"Kim Dokja adalah pekerja kantoran biasa yang minat satu-satunya adalah membaca novel web favoritnya Tiga Cara untuk Bertahan dari Kiamat. Tetapi ketika novel itu tiba-tiba menjadi kenyataan, dia adalah satu-satunya orang yang tahu bagaimana dunia akan berakhir. Berbekal hal tersebut, Dokja menggunakan pemahamannya untuk mengubah jalannya cerita, dan dunia, seperti yang dia tahu."
     },
     {
+        img:"../img/sampul-chronicles-of-the-martial-gods.jpeg",
         judul:" Chronicles Of The Martial Gods",
         pembuat:"Myosu",
         genre:'4',
@@ -36,6 +40,7 @@ let comics=[
         sinipsis:"Manhwa Chronicles Of The Martial Gods Return yang dibuat oleh komikus bernama Myosu (묘수) ini bercerita tentang Bakat terburuk yang tidak dapat disaingi oleh siapa pun. Dewa Iblis yang Tak Terhentikan, Dan Uhyeon. Seribu tahun setelah disegel untuk kesalahan itu. Seribu tahun sudah cukup untuk menghilangkan rasa superioritas Dan Uhyeon. Dunia yang telah berubah, kesendirian tanpa ada yang tahu, dan satu-satunya yang tersisa adalah keputusasaan dan kekosongan. “Waktu berjalan seperti angin. Benar-benar tidak ada yang tersisa.” Seorang gadis kecil yang muncul di depan Dan Uhyeon kehilangan tujuan dan keinginannya untuk hidup tanpa tujuan. Hwa Somi. Untuk seorang gadis yang tampaknya tidak punya tempat untuk bersandar, Dan Uhyeon merasakan hal yang sama dan secara bertahap mulai membuka pintu pikirannya. “Saya Dan Uhyeon. Ikut denganku. Kisah seorang pejuang dengan hati yang dingin dan gadis yang tajam dan murni Kisah kehidupan keluarga yang tidak biasa di lini tengah akan menghangatkan hati Anda"
     },
     {
+        img:"../img/sampul-detective-vlog.jpeg",
         judul:"Detective VLOG",
         pembuat:"Xianman Wenhua",
         genre:'5',
