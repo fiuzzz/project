@@ -1,0 +1,38 @@
+
+
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="card">
+                <div class="table-responsive pt-3">
+                  <table class="table table-striped project-orders-table">
+                    <thead>
+                      <tr>
+                        <th>ID</th>
+                        <th>Judul</th>
+                        <th>Pembuat</th>
+                        <th>Jumlah Chapter</th>
+                        <th>Status</th>
+                        <th>Genre ID</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <% comics.forEach(element => { %>
+                       <tr>
+                        <td><%-element.id  %></td>
+                        <td><%-element.judul  %></td>
+                        <td><%-element.pembuat  %></td>
+                        <td><%-element.chapter  %></td>
+                        <td><%-element.status  %></td>
+                        <td><%-element.genre_id  %></td>
+                       </tr>
+                      <% }) %>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+      
+
+     
